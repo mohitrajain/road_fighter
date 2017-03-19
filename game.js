@@ -904,27 +904,27 @@ function smallcar(){
     if(im==7)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/7.png')"
+        "background-image":"url('img7.png')"
        }); 
     else if(im==8)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/8.png')"
+        "background-image":"url('img8.png')"
        });
      else if(im==9)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/9.png')"
+        "background-image":"url('img9.png')"
        });       
     else if(im==10)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/10.png')"
+        "background-image":"url('img10.png')"
        });
     else if(im==6)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/6.png')"
+        "background-image":"url('img6.png')"
        });
             
         CAA=CA;    
@@ -1009,27 +1009,27 @@ function smallcar(){
     if(im2==7)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/7.png')"
+        "background-image":"url('img7.png')"
        }); 
     else if(im2==8)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/8.png')"
+        "background-image":"url('img8.png')"
        });
      else if(im2==9)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/9.png')"
+        "background-image":"url('img9.png')"
        });       
     else if(im2==10)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/10.png')"
+        "background-image":"url('img10.png')"
        });
     else if(im2==6)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/6.png')"
+        "background-image":"url('img6.png')"
        });
             
         CBB=CB;    
@@ -1114,27 +1114,27 @@ function smallcar(){
     if(im3==7)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/7.png')"
+        "background-image":"url('img7.png')"
        }); 
     else if(im3==8)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/8.png')"
+        "background-image":"url('img8.png')"
        });
      else if(im3==9)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/9.png')"
+        "background-image":"url('img9.png')"
        });       
     else if(im3==10)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/10.png')"
+        "background-image":"url('img10.png')"
        });
     else if(im3==6)        
     $('#i'+a).css({
         "background-color":"grey",
-        "background-image":"url('img/6.png')"
+        "background-image":"url('img6.png')"
        });
             
         CCC=CC;    
