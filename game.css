@@ -1,0 +1,124 @@
+body{
+    background-color: black;
+    margin: 0px;
+}
+table{
+   border-collapse: collapse;  
+}
+#data{
+    background-color: aqua;
+    width: 140px;
+    height: 750px;
+    margin: 0px;
+    padding: 0px;
+}
+#green1{
+    width: 150px;
+    height: 750px;
+    margin: 0px;
+    padding: 0px;
+}
+#road{
+    width: 720px;
+    height: 750px;
+    margin: 0px;
+    padding: 0px;
+}
+#green2{
+    width: 350px;
+    height: 750px;
+    margin: 0px;
+    padding: 0px;
+}
+.tablet{
+    width: 720px;
+    height: 750px;
+    margin: 0px;
+    padding: 0px;
+}
+.tableg1{
+    width: 150px;
+    height: 750px;
+    margin: 0px;
+    padding: 0px;
+}
+.tableg2{
+    width: 350px;
+    height: 750px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.grey{
+    background-color: grey;
+    width:10px;
+    height: 5px;
+    margin: 0px;
+    padding: 0px;
+}
+.white{
+    background-color: white;
+    width: 10px;
+    height: 5px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.green{
+    background-color: greenyellow;
+    width:10px;
+    height: 5px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.blue{
+    background-color: dodgerblue;
+    width:10px;
+    height: 5px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.sand{
+    background-color: goldenrod;
+    width:10px;
+    height: 5px;
+    margin: 0px;
+    padding: 0px;
+}
+.tree{
+    background-image: url(4.jpg);
+    width:10px;
+    height: 5px;
+    margin: 0px;
+    padding: 0px;
+}
+.boat{
+    background-color: darkkhaki;
+    width:10px;
+    height: 5px;
+    margin: 0px;
+    padding: 0px;
+}
+.boat1{
+    background-color:orange;
+    width:10px;
+    height: 5px;
+    margin: 0px;
+    padding: 0px;
+}
+.black{
+    background-color: black;
+    width:10px;
+    height: 5px;
+    margin: 0px;
+    padding: 0px;
+}
+.tree1{
+    background-image: url(3.jpg);
+    width:10px;
+    height: 5px;
+    margin: 0px;
+    padding: 0px;
+}
